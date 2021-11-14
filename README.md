@@ -1,4 +1,4 @@
-## Your Name
+## Zoë Idehen
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -53,7 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (November 2021 to February 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,11 +62,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Nottingham (2010 to 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Masters in Nursing Science – Adult Branch
+- Result: 1st class
+- Awarded the ‘Best Presented Dissertation’ at the Nottingham University Hospitals Trust’s research conference in June 2014.
 
 #### Any other qualifications
 
