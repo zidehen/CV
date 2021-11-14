@@ -1,6 +1,7 @@
 ## Zoë Idehen
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+
 Intensive Care Nurse turned Aspiring Software Developer who is currently studying at Makers Academy.
 
 ## Projects
@@ -16,11 +17,11 @@ Intensive Care Nurse turned Aspiring Software Developer who is currently studyin
 _Adult Intensive Care Nurse_
 
 Responsible for providing high quality, effective, individualised nursing care to patients who are critically ill with life-threatening health conditions.
-•	Assessing a patient’s condition and planning, implementing and evaluating patient care plans.
-•	Observing, recording and evaluating patient vital signs and laboratory data to determine intervention needs.
-•	Providing advanced life support and ensuring ventilators, monitors and other types of equipment function properly.
-•	Assisting physicians in performing medical procedures.
-•	Advocate for patients’ and families’ needs and provide emotional support for patients and their families.
+- Assessing a patient’s condition and planning, implementing and evaluating patient care plans.
+- Observing, recording and evaluating patient vital signs and laboratory data to determine intervention needs.
+- Providing advanced life support and ensuring ventilators, monitors and other types of equipment function properly.
+- Assisting physicians in performing medical procedures.
+- Advocate for patients’ and families’ needs and provide emotional support for patients and their families.
 
 - Any experience, including roles and responsibilities and results achieved in bullet point format.
 
@@ -28,14 +29,13 @@ Responsible for providing high quality, effective, individualised nursing care t
 _Senior Staff Nurse_
 
 Responsible for providing direct nursing care to patients in a busy medical ward specialising in Respiratory Medicine and Infectious Diseases. 
-
-•	Maintaining a safe, secure and comfortable environment for patients and their family, providing care and compassion in difficult situations.
-•	Responsible for the safe custody and administration of drugs in accordance with local and Trust policy and legal requirements.
-•	Utilising critical thinking skills in order to assess conditions, demonstrate effective decision making, implement appropriate interventions, anticipate potential complications, and evaluate care outcomes.
-•	Delivering care based on current evidence, best practice and research when available.
-•	Being one of the Infection Control Link nurses, which involves raising awareness of infection control issues on the ward and motivating staff to improve practice and adhere to infection control policies. 
-•	Performing observational audits of hand hygiene and hand asepsis on a monthly basis, giving feedback to team members, ward managers and the Infection Control Team.
-•	Mentoring and supervising student nurses and support workers in the giving of care.
+- Maintaining a safe, secure and comfortable environment for patients and their family, providing care and compassion in difficult situations.
+- Responsible for the safe custody and administration of drugs in accordance with local and Trust policy and legal requirements.
+- Utilising critical thinking skills in order to assess conditions, demonstrate effective decision making, implement appropriate interventions, anticipate potential complications, and evaluate care outcomes.
+- Delivering care based on current evidence, best practice and research when available.
+- Being one of the Infection Control Link nurses, which involves raising awareness of infection control issues on the ward and motivating staff to improve practice and adhere to infection control policies. 
+- Performing observational audits of hand hygiene and hand asepsis on a monthly basis, giving feedback to team members, ward managers and the Infection Control Team.
+- Mentoring and supervising student nurses and support workers in the giving of care.
 
 - Any experience relevent to software development
 
@@ -81,14 +81,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### University of Nottingham (2010 to 2014)
-
 - Masters in Nursing Science – Adult Branch
 - Result: 1st class
 - Awarded the ‘Best Presented Dissertation’ at the Nottingham University Hospitals Trust’s research conference in June 2014.
 
 #### Barking Abbey School and Sixth Form (2003 to 2010)
-A Levels: Mathematics (A), Biology (B), Chemistry (C)
-11 GCSE's A*-C 
+- A Levels: Mathematics (A), Biology (B), Chemistry (C)
+- 11 GCSE's A*-C 
 
 #### Any other qualifications
 
