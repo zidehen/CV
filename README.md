@@ -2,7 +2,7 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
-Intensive Care Nurse turned Aspiring Software Developer who is currently studying at Makers Academy.
+Intensive Care Nurse turned Aspiring Software Developer, currently studying at Makers Academy.
 
 ## Projects
 
@@ -71,7 +71,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (November 2021 to February 2022)
+#### Makers Academy (October 2021 to February 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -93,6 +93,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Hobbies and Interests
 
-Any cool stuff that makes you a super part of a software development team
+- Very passionate home cook who enjoys experimenting in the kitchen by cooking a variety of cuisines and creating my own recipes.
+- Enjoy food blogging about my food, cooking and recipes on my social media page.
+- Currently learning to speak French for personal development and to broaden my range of skills.
