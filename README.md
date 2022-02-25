@@ -8,11 +8,11 @@ Intensive Care Nurse turned Aspiring Software Developer, currently studying at M
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [**Mappin**](https://github.com/zidehen/world-map-game)          | Final Group Project - An online multiplayer interactive world map guessing game | Javascript, Next.js, React, Socket.io, Mapbox, Jest, Cypress |
+| [**Acebook**](https://github.com/zidehen/acebook-on-the-rails) | Group Project - A Facebook clone where users can sign-up, login/logout, publish posts, comment & like other users' posts, upload a profile picture and add users as friends | Ruby, Rails, Postgresql, Rspec, CSS, Bulma              |
+| [**MakersBnB**](https://github.com/zidehen/makersbnb)| Group Project - An AirBnB clone that allows users to list spaces they have available, and to hire spaces for the night | Ruby, Sinatra, Capybara, PostgreSQL, Rspec             |
 
 ## Work Experience
-
 **Royal London Hospital** (January 2019 to September 2021)  
 _Adult Intensive Care Nurse_
 
