@@ -8,8 +8,6 @@ I recently graduated from Makers Academy, a 16-week fully immersive coding skill
 
 I'm excited to join a friendly, ambitious team that will help me grow and progress as a developer.
 
-![image](https://user-images.githubusercontent.com/92443492/155842331-0220fb10-bca3-4fae-98fa-3ec32b9c8ec3.png)
-
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
