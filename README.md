@@ -1,8 +1,14 @@
 ## Zoë Idehen
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a highly motivated, ambitious, hard-working individual transitioning into my desired career path within the tech industry as a Junior Software Developer.
 
-Intensive Care Nurse turned Aspiring Software Developer, currently studying at Makers Academy.
+After many years of working as a nurse, I decided to make this career change because I believe that a career in tech is an exciting one without boundaries. I wanted to challenge myself to learn something new that could improve people's lives by solving problems creatively and providing digital products and/or services to individuals to improve their daily lives.
+
+I recently graduated from Makers Academy, a 16-week fully immersive coding skills bootcamp that provided me with a good foundation in software development and programming principles, and I'm looking forward to continue expanding my knowledge and programming skills.
+
+I'm excited to join a friendly, ambitious team that will help me grow and progress as a developer.
+
+![image](https://user-images.githubusercontent.com/92443492/155842331-0220fb10-bca3-4fae-98fa-3ec32b9c8ec3.png)
 
 ## Projects
 
@@ -23,8 +29,6 @@ Responsible for providing high quality, effective, individualised nursing care t
 - Assisting physicians in performing medical procedures.
 - Advocate for patients’ and families’ needs and provide emotional support for patients and their families.
 
-- Any experience, including roles and responsibilities and results achieved in bullet point format.
-
 **University College London Hospital** (August 2014 to January 2019)  
 _Senior Staff Nurse_
 
@@ -33,8 +37,6 @@ Responsible for providing direct nursing care to patients in a busy medical ward
 - Responsible for the safe custody and administration of drugs in accordance with local and Trust policy and legal requirements.
 - Utilising critical thinking skills in order to assess conditions, demonstrate effective decision making, implement appropriate interventions, anticipate potential complications, and evaluate care outcomes.
 - Delivering care based on current evidence, best practice and research when available.
-- Being one of the Infection Control Link nurses, which involves raising awareness of infection control issues on the ward and motivating staff to improve practice and adhere to infection control policies. 
-- Performing observational audits of hand hygiene and hand asepsis on a monthly basis, giving feedback to team members, ward managers and the Infection Control Team.
 - Mentoring and supervising student nurses and support workers in the giving of care.
 
 - Any experience relevent to software development
