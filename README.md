@@ -41,33 +41,22 @@ Responsible for providing direct nursing care to patients in a busy medical ward
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Problem solving 
+In order to care for patients, my work as a nurse necessitated good problem-solving abilities. During a shift, my patient’s blood pressure had dropped significantly and I needed to act fast to prevent further deterioration. I needed to utilise a systematic problem solving approach to investigate and identify what caused my patient’s blood pressure to decrease and prioritise appropriate interventions in order to increase it. While learning to code at Makers, I was able to transfer these problem-solving skills to my journey into software development. I have learned to break down every problem into smaller challenges and use debugging techniques and research to troubleshoot error messages and find solutions to the problem at hand.
 
--STAR
--What was the situation/task? (ST)
+#### Fast learner
 
--How was the skill used?
+During my time at Makers, I was introduced to many different technologies and concepts in a short period of time. For our final group project, we had to learn new frameworks, such as React and Next.js, and we were successful in creating  an online multiplayer geoguessing game. It was a steep learning curve because these technologies were not covered during the course, but what we were able to achieve with our finished final project demonstrates how quickly I can adapt and learn new technologies.
 
--What did you do? (action)
+#### Ability to perform under pressure
 
--What was the result?
+Working in an intensive care unit is a high-pressure environment by nature, but it became even more so during the COVID pandemic. Instead of the usual 1:1 nurse-to-patient ratio, we were forced to boost it to 1:2 or 1:3, greatly increasing our workload. Despite the intense pressure, I was able to rise to the occasion by not allowing my stress and emotions to get in the way of providing my patients with life-saving care and treatment. They remained my top priority, and I did everything I could to assure their safety, including asking for help when I needed it.
 
+#### Team player
 
-#### This Skill
+Teamwork has always been an important aspect of my nursing role since we work as part of a multi-disciplinary team that includes doctors, physiotherapists, clinical experts, and others to give the best possible patient care. In one instance, I had a patient that became acutely unwell and needed urgent attention. I continued to monitor the patient closely but I also needed to alert the other nurses in my bay and the medical team for their assistance. After much deliberation, each of us were assigned a task to carry out in order to stabilise the  patient.
 
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Additionally, being a team player was integral to my success at Makers. Working on group projects in small teams of 5-6 people to meet the project goals as well as pairing up daily to work on the weekly challenges both required strong collaboration and communication.
 
 ## Education
 
