@@ -15,6 +15,7 @@ I'm excited to join a friendly, ambitious team that will help me grow and progre
 | [**Mappin**](https://github.com/zidehen/world-map-game)          | Final Group Project - An online multiplayer interactive world map guessing game | Javascript, Next.js, React, Socket.io, Mapbox, Jest, Cypress |
 | [**Acebook**](https://github.com/zidehen/acebook-on-the-rails) | Group Project - A Facebook clone where users can sign-up, login/logout, publish posts, comment & like other users' posts, upload a profile picture and add users as friends | Ruby, Rails, Postgresql, Rspec, CSS, Bulma              |
 | [**MakersBnB**](https://github.com/zidehen/makersbnb)| Group Project - An AirBnB clone that allows users to list spaces they have available, and to hire spaces for the night | Ruby, Sinatra, Capybara, PostgreSQL, Rspec             |
+| [**Bank Tech Test**](https://github.com/zidehen/bank-tech-test)| Tech Test - A command-line Ruby application allowing you to create a bank account, make deposits, withdraw money, and print statements. Demonstrates TDD, OOP and clean code principles. | Ruby and Rspec             |
 
 ## Work Experience
 **Royal London Hospital** (January 2019 to September 2021)  
@@ -36,8 +37,6 @@ Responsible for providing direct nursing care to patients in a busy medical ward
 - Utilising critical thinking skills in order to assess conditions, demonstrate effective decision making, implement appropriate interventions, anticipate potential complications, and evaluate care outcomes.
 - Delivering care based on current evidence, best practice and research when available.
 - Mentoring and supervising student nurses and support workers in the giving of care.
-
-- Any experience relevent to software development
 
 ## Skills
 
