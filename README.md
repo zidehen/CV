@@ -61,13 +61,12 @@ Additionally, being a team player was integral to my success at Makers. Working 
 ## Education
 
 #### Makers Academy (October 2021 to February 2022)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+A highly selective 16-week full-time coding bootcamp, learning best practices and agile methodologies
+- Frequent pair programming in order to problem solve effeciently, requiring teamwork and communication. 
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Agile/XP values
+- Ruby, Rails, JavaScript, Node.js, SQL(PostgreSQL), React
+- RSpec, Capybara, Jest, Cypress
 
 #### University of Nottingham (2010 to 2014)
 - Masters in Nursing Science – Adult Branch
@@ -78,12 +77,11 @@ Additionally, being a team player was integral to my success at Makers. Working 
 - A Levels: Mathematics (A), Biology (B), Chemistry (C)
 - 11 GCSE's A*-C 
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Other courses/qualifications
+- Codecademy - Learn Ruby
 
 ## Hobbies and Interests
 
 - Very passionate home cook who enjoys experimenting in the kitchen by cooking a variety of cuisines and creating my own recipes.
-- Enjoy food blogging about my food, cooking and recipes on my social media page.
+- Enjoy food blogging my cooking and recipes on my social media page.
 - Currently learning to speak French for personal development and to broaden my range of skills.
