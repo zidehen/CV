@@ -40,12 +40,12 @@ Responsible for providing direct nursing care to patients in a busy medical ward
 
 ## Skills
 
-#### Problem solving 
-In order to care for patients, my work as a nurse necessitated good problem-solving abilities. During a shift, my patient’s blood pressure had dropped significantly and I needed to act fast to prevent further deterioration. I needed to utilise a systematic problem solving approach to investigate and identify what caused my patient’s blood pressure to decrease and prioritise appropriate interventions in order to increase it. While learning to code at Makers, I was able to transfer these problem-solving skills to my journey into software development. I have learned to break down every problem into smaller challenges and use debugging techniques and research to troubleshoot error messages and find solutions to the problem at hand.
-
 #### Fast learner
 
 During my time at Makers, I was introduced to many different technologies and concepts in a short period of time. For our final group project, we had to learn new frameworks, such as React and Next.js, and we were successful in creating  an online multiplayer geoguessing game. It was a steep learning curve because these technologies were not covered during the course, but what we were able to achieve with our finished final project demonstrates how quickly I can adapt and learn new technologies.
+
+#### Problem solving 
+In order to care for patients, my work as a nurse necessitated good problem-solving abilities. During a shift, my patient’s blood pressure had dropped significantly and I needed to act fast to prevent further deterioration. I needed to utilise a systematic problem solving approach to investigate and identify what caused my patient’s blood pressure to decrease and prioritise appropriate interventions in order to increase it. While learning to code at Makers, I was able to transfer these problem-solving skills to my journey into software development. I have learned to break down every problem into smaller challenges and use debugging techniques and research to troubleshoot error messages and find solutions to the problem at hand.
 
 #### Ability to perform under pressure
 
@@ -61,11 +61,12 @@ Additionally, being a team player was integral to my success at Makers. Working 
 
 #### Makers Academy (October 2021 to February 2022)
 A highly selective 16-week full-time coding bootcamp, learning best practices and agile methodologies
-- Frequent pair programming in order to problem solve effeciently, requiring teamwork and communication. 
-- OOP, TDD, MVC, DDD
-- Agile/XP values
-- Ruby, Rails, JavaScript, Node.js, SQL(PostgreSQL), React
-- RSpec, Capybara, Jest, Cypress
+- Frequent pair programming in order to problem solve effeciently, requiring teamwork and communication.
+- Focus on Test Driven Development using RSpec, Capybara, Jest & Cypress
+- Object oriented programming & software design
+- Collaborated in Agile teams using Git workflow, guided by XP values
+- Experience with MVC framework patterns
+- Gained strong understanding of technologies such as Ruby, Rails, JavaScript, Node.js, SQL(PostgreSQL), React, Next.js
 
 #### University of Nottingham (2010 to 2014)
 - Masters in Nursing Science – Adult Branch
@@ -81,6 +82,6 @@ A highly selective 16-week full-time coding bootcamp, learning best practices an
 
 ## Hobbies and Interests
 
-- Very passionate home cook who enjoys experimenting in the kitchen by cooking a variety of cuisines and creating my own recipes.
+- Very passionate homecook who enjoys experimenting in the kitchen by cooking a variety of cuisines and creating my own recipes.
 - Enjoy food blogging my cooking and recipes on my social media page.
 - Currently learning to speak French for personal development and to broaden my range of skills.
