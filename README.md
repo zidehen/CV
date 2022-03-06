@@ -61,7 +61,7 @@ Additionally, being a team player was integral to my success at Makers. Working 
 
 #### Makers Academy (October 2021 to February 2022)
 A highly selective 16-week full-time coding bootcamp, learning best practices and agile methodologies
-- Frequent pair programming in order to problem solve effeciently, requiring teamwork and communication.
+- Frequent pair programming in order to problem solve efficiently, requiring teamwork and communication.
 - Focus on Test Driven Development using RSpec, Capybara, Jest & Cypress
 - Object oriented programming & software design
 - Collaborated in Agile teams using Git workflow, guided by XP values
