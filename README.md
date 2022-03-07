@@ -1,12 +1,8 @@
 ## Zoë Idehen
 
-I am a highly motivated, ambitious, hard-working individual transitioning into my desired career path within the tech industry as a Junior Software Developer.
+I am a highly motivated, ambitious, hard-working individual transitioning into my desired career path within the tech industry as a Junior Software Developer. After many years of working as a nurse, I decided to make this career change. I wanted to challenge myself to learn new skills that could improve people's daily lives by solving problems creatively and providing digital products and/or services.
 
-After many years of working as a nurse, I decided to make this career change because I believe that a career in tech is an exciting one without boundaries. I wanted to challenge myself to learn something new that could improve people's lives by solving problems creatively and providing digital products and/or services to individuals to improve their daily lives.
-
-I recently graduated from Makers Academy, a 16-week fully immersive coding skills bootcamp that provided me with a good foundation in software development and programming principles, and I'm looking forward to continue expanding my knowledge and programming skills.
-
-I'm excited to join a friendly, ambitious team that will help me grow and progress as a developer.
+I recently graduated from Makers Academy, a 16-week fully immersive coding skills bootcamp that provided me with a good foundation in software development and programming principles, and I'm excited to join a friendly and supportive team where I can continue to expand my knowledge and progress as a developer.
 
 ## Projects
 
@@ -49,13 +45,13 @@ In order to care for patients, my work as a nurse necessitated good problem-solv
 
 #### Ability to perform under pressure
 
-Working in an intensive care unit is a high-pressure environment by nature, but it became even more so during the COVID pandemic. Instead of the usual 1:1 nurse-to-patient ratio, we were forced to boost it to 1:2 or 1:3, greatly increasing our workload. Despite the intense pressure, I was able to rise to the occasion by not allowing my stress and emotions to get in the way of providing my patients with life-saving care and treatment. They remained my top priority, and I did everything I could to assure their safety, including asking for help when I needed it.
+Working in an intensive care unit is a high-pressure environment by nature, but it became even more so during the COVID pandemic. Instead of the usual 1:1 nurse-to-patient ratio, we were forced to boost it to 1:2 or 1:3, greatly increasing our workload. Despite the intense pressure, I was able to rise to the occasion by not allowing my stress and emotions to get in the way of providing my patients with life-saving care and treatment. They remained my top priority, and I did everything I could to assure their safety, including asking for help when I needed it. It was equally vital for me to also support my fellow colleagues in these situations, in order to boost team morale and create a positive working environment.
 
 #### Team player
 
 Teamwork has always been an important aspect of my nursing role since we work as part of a multi-disciplinary team that includes doctors, physiotherapists, clinical experts, and others to give the best possible patient care. In one instance, I had a patient that became acutely unwell and needed urgent attention. I continued to monitor the patient closely but I also needed to alert the other nurses in my bay and the medical team for their assistance. After much deliberation, each of us were assigned a task to carry out in order to stabilise the  patient.
 
-Additionally, being a team player was integral to my success at Makers. Working on group projects in small teams of 5-6 people to meet the project goals as well as pairing up daily to work on the weekly challenges both required strong collaboration and communication.
+Additionally, being a team player was integral to my success at Makers. Working on group projects in small teams of 5-6 people to meet the project goals as well as pairing up daily to work on the weekly challenges both required strong collaboration and communication. Whenever we would get stuck on problem, I believe I am very good at boosting team morale and 
 
 ## Education
 
