@@ -51,7 +51,7 @@ Working in an intensive care unit is a high-pressure environment by nature, but 
 
 Teamwork has always been an important aspect of my nursing role since we work as part of a multi-disciplinary team that includes doctors, physiotherapists, clinical experts, and others to give the best possible patient care. In one instance, I had a patient that became acutely unwell and needed urgent attention. I continued to monitor the patient closely but I also needed to alert the other nurses in my bay and the medical team for their assistance. After much deliberation, each of us were assigned a task to carry out in order to stabilise the  patient.
 
-Additionally, being a team player was integral to my success at Makers. Working on group projects in small teams of 5-6 people to meet the project goals as well as pairing up daily to work on the weekly challenges both required strong collaboration and communication. Whenever we would get stuck on problem, I believe I am very good at boosting team morale and 
+Additionally, being a team player was integral to my success at Makers. Working on group projects in small teams of 5-6 people to meet the project goals as well as pairing up daily to work on the weekly challenges both required strong collaboration and communication.
 
 ## Education
 
